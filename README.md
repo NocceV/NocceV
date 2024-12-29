@@ -14,10 +14,6 @@
     - ☺️ Pronouns: ...
     - ⚡ Fun fact: ...
     -->
-<div>
-    <img src="URL_DA_SUA_IMAGEM" alt="My profile image" height="180">
-</div>
-
 
 ## Knowledge tools and technologies
 
@@ -48,4 +44,5 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=NocceV&show_icons=true&theme=radical" alt="Nocce's GitHub stats" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NocceV&layout=donut&langs_count=8&theme=radical&title_color=ffffff&text_color=ffffff&icon=github" alt="Top Langs" height="180">
+  <img src="./image-readme.png" alt="My profile image" height="135" width="150">
 </div>
