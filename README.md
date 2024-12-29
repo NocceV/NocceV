@@ -42,6 +42,6 @@
 ## Profile status
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NocceV&show_icons=true&theme=radical" alt="Nocce's GitHub stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=NocceV&show_icons=true&theme=radical&cache_seconds=1800" alt="Nocce's GitHub stats" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NocceV&layout=donut&langs_count=8&theme=radical&title_color=ffffff&text_color=ffffff&icon=github" alt="Top Langs" height="180">
 </div>
