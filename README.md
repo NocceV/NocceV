@@ -14,7 +14,9 @@
     - ☺️ Pronouns: ...
     - ⚡ Fun fact: ...
     -->
-
+<div>
+    <img src="URL_DA_SUA_IMAGEM" alt="My profile image" height="180">
+</div>
 
 
 ## Knowledge tools and technologies
