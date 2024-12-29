@@ -37,7 +37,8 @@
 <div> 
   <a href = "mailto:noccevitor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-nocce/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://noccev.github.io/#index.html#home" target="_blank"><img src="https://img.shields.io/badge/-Website-%23000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
+  <a href="https://noccev.github.io/#index.html#home" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
+    <a></a>
 </div>
 
 ## Profile status
